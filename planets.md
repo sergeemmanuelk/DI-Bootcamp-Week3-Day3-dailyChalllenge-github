@@ -1,4 +1,4 @@
-#List of the planets
+# List of the planets
 
 - Mercure
 - Vénus
